@@ -6,7 +6,7 @@ Each soap recipe has a common name, such as "Alpha", which is associated with an
 
 The identification version numbers are based on on major.minor.micro such that:
 - major = soap recipe identification number (generally the order in which they were created).
-- minor = specific implementation of recipe (distinguishes alternative versions).
+- minor = specific implementation of recipe (distinguishes alternative implementations).
 - micro = specific revision of a recipe.
 
 Each recipe has a "Last Updated" date, which represents when the recipe was last updated.
