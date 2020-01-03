@@ -1,0 +1,94 @@
+Mardi Gras 9.0.1 - Last Updated: 2017/03/14 - License: CC-By-SA 4.0, Kevin Day
+------------------------------------------------------------------------------
+
+Stage 1, Oils and NaOH (Sodium Hydroxide)     ~Mass per Bar    Quick NaOH to H2O:    NaOH to H2O is calculated by:
+-----------------------------------------      ??? -> ???       (NaOH * 2.33)         (NaOH/ratio) - (NaOH)
+
+ item/oil (y/p)       | grams |  x4  |  ratio |  NaOH g | percent |  ~ cost  | ~cost/g    NaOH g | ratio |   H2O g
+----------------------|-------|------|--------|---------|---------|----------|---------- --------|-------|----------
+ coconut              |   80  | 320  | 0.1946 | 15.568  |  80.000 |  1.23520 |  0.01544   18.308 | 0.28  | 47.07771
+ cocoa                |   20  |  80  | 0.1370 |  2.740  |  20.000 |  0.26320 |  0.01316   18.308 | 0.30  | 42.71866*
+----------------------|-------|------|--------|---------|---------|----------|----------  18.308 | 0.32  | 38.90450
+  total               |  100g | 400g |        | 18.308g |         | $1.49840 |            18.308 | 0.34  | 35.53905
+                                                                                          * My choice of lye ratio
+
+ item/oil (green)     | grams |  x4  |  ratio |  NaOH g | percent |  ~ cost  | ~cost      NaOH g | ratio |   H2O g
+----------------------|-------|------|--------|---------|---------|----------|---------- --------|-------|---------
+ hemp seed            |   70  | 280  | 0.1345 |  9.415  |  70.000 |  0.84700 |  0.01210   13.405 | 0.28  | 34.47000
+ avocado              |   30  | 120  | 0.1330 |  3.990  |  30.000 |  0.32580 |  0.01086   13.405 | 0.30  | 31.27833*
+----------------------|-------|------|--------|---------|---------|----------|----------  13.405 | 0.32  | 28.48562
+  total               |  100g | 400g |        | 13.405g |         | $1.17280 |            13.405 | 0.34  | 26.02147
+
+                                       (yellow/purple) NaOH * 4 =  73.23200 g     (green) NaOH * 4 =  53.62000 g
+                                       (yellow/purple)  H2O * 4 = 170.87464 g     (green)  H2O * 4 = 125.11332 g
+
+ * Every 200g seems to create approximately 3 bars.
+ ** The H2O should be distilled or purified water for best results.            1 gallon of H20 ~= 3785.4118g
+ *** Do not use glass, NaOH is caustic to glass.                                $1.00 / gallon ~= $0.00026 / g
+                                                                                73.99699 g h20 ~= $0.01923
+ Tools:
+ 1) 2 mixing bowls (heavy duty plastic, silicon, stainless steel, or wood).     1 gram of NaOH ~= $0.01500
+ 2) 1 spoon (heavy duty plastic, silicon, stainless steel, or wood).             31.713 g NaOH ~= $0.38436
+ 3) measuring cups, temperature readers, and metric weighing devices.
+ 4) soap mold (heavy duty plastic, silicon, stainless steel, or wood).                     1 oz = 28.34952 g
+ 5) double boiler.                                                                        16 oz = 453.59232 g
+                                                                                          32 oz = 907.18464 g
+ Stage 1 Instructions:                                                                   128 oz = 3628.73856 g
+ 1) Weigh all of the items/oils and add them to a double boiler.
+ 2) Melt all items/oils until moderately hot.                          ~ Cost Per Bar  ~ Cost Per g
+ 3) Add H2O to a bowl #1 (for mixing lye).                             --------------  ------------
+ 4) Very slowly dash in all of the NaOH into bowl #1 while stiring.         $1.18125    $0.0105569
+
+                                                                       ~ air pressure | ~ temperature | ~ humidiy
+Stage 2, Mixing, Superfatting, and Adding Preservatives                ---------------|---------------|-----------
+-------------------------------------------------------                   1010.30 hPA |       25.00 C |   60.00 %
+
+   item/oil        |  grams |   x4   |   note                                              |  ~ cost  |  ~cost/g
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ citric acid       |   1.0  |   4.0  | preservative, acidic                                |  0.00244 |  0.00244
+ Yellow Clay       |   0.5  |   2.0  | yellow kaolin clay                                  |  0.39955 |  0.07991
+ Purple Clay       |   0.5  |   2.0  | purple kaolin clay                                  |  0.39955 |  0.07991
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ total             |   2.0g |   8.0g | per ~200g of oils, if using 800g use x4             | $0.80154 |
+
+  Stage 2 Instructions:
+  1) Pour hot items/oils into bowl #2.
+  2) Slowly pour bowl #1 into bowl #2, stiring.
+  3) Stir until mixture becomes noticably thick (should have trace).
+  4) Add any additional ingredients or preservatives and mix well.
+  5) After mixing well, pour the contents of bowl #2 into the soap mold.
+  6) After 2 to 3 days, remove the soap from mold and cut into pieces.
+
+Fatty Acid and Mineral Breakdown (approximate percentage of fatty acids or minerals per oil.)
+---------------------------------------------------------------------------------------------
+
+ Acid/Miner |  coconut  | hemp seed |  avocado |   cocoa  |    total
+------------|-----------|-----------|----------|----------|----------
+ Lauric     |  48*0.400 |           |          |          |   19.200
+ Mystic     |  19*0.400 |           |          |          |    7.600
+ Palmitic   |   9*0.400 |   6*0.350 |  7*0.150 | 28*0.100 |    9.550
+ Stearic    |   3*0.400 |   2*0.350 |  2*0.150 | 33*0.100 |    5.500
+ Ricinoleic |           |           |          |          |    0.000
+ Oleic      |   8*0.400 |  12*0.350 | 52*0.150 | 35*0.100 |   18.700
+ Linoleic   |   2*0.400 |  57*0.350 | 37*0.150 |  3*0.100 |   26.600
+ Linolenic  |           |  21*0.350 |  2*0.150 |          |    7.650
+ Punicic    |           |           |          |          |    0.000
+ Iodine     |  10*0.400 | 165*0.350 | 86*0.150 | 37*0.035 |   75.945
+
+ Fatty Acid |   Cleansing   |    Hardness   |  Full Lather  | Stable Lather |  Conditioning   Rating System
+-------------------------------------------------------------------------------------------  ---------------
+ Lauric     |       19.200  |       19.200  |       19.200  |               |                 A+ | 65 -> +
+ Mystic     |        7.600  |        7.600  |        7.600  |               |                 A  | 45 -> 64
+ Palmitic   |               |        9.550  |               |        9.550  |                 B  | 35 -> 44
+ Stearic    |               |        5.500  |               |        5.500  |                 C  | 25 -> 34
+ Ricinoleic |               |               |        0.000  |        0.000  |        0.000    D  | 15 -> 24
+ Oleic      |               |               |               |               |       18.700    E  |  5 -> 14
+ Linoleic   |               |               |               |               |       26.600    F  |  0 ->  4
+ Linolenic  |               |               |               |               |        7.650
+--------------------------------------------------------------------------------------------
+ Properties | (C)   26.800  | (B)   41.850  |(C)    26.800  | (D)   15.050  | (A)   52.950
+
+Ingredients
+-----------
+  coconut oil (extra virgin) (organic), purified water, hemp seed oil (organic), sodium hydroxide,
+  avocado oil (organic), cocoa butter (organic), kaolin clay, citric acid (preservative)

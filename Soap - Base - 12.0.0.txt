@@ -1,0 +1,103 @@
+Base 12.0.0 - Last Updated: 2017/XX/XX - License: CC-By-SA 4.0, Kevin Day (TODO: re-calculate costs and everclear & veg glyc quantities)
+-------------------------------------------------------------------------
+
+Stage 1, Oils and NaOH (Sodium Hydroxide)     ~Mass per Bar    Quick NaOH to H2O:    NaOH to H2O is calculated by:
+-----------------------------------------      ??? -> ???       (NaOH * 2.33)         (NaOH/ratio) - (NaOH)
+
+ item/oil             | grams |  x4  |  ratio |  NaOH g | percent |  ~ cost  | ~cost/g    NaOH g | ratio |   H2O g
+----------------------|-------|------|--------|---------|---------|----------|---------- --------|-------|----------
+ coconut              |  100  | 400  | 0.1946 | 19.460  |  50.000 |  1.54400 |  0.01544   32.938 | 0.30  | 76.85533
+ castor               |   50  | 200  | 0.1286 |  6.430  |  25.000 |  0.20700 |  0.00414   32.938 | 0.35  | 61.17057*
+ shea                 |   50  | 200  | 0.1280 |  6.400  |  25.000 |  0.55750 |  0.01115   32.938 | 0.40  | 49.40700
+----------------------|-------|------|--------|---------|---------|----------|----------  32.938 | 0.45  | 40.25755
+  total               |  200g | 800g |        | 32.938g |         | $2.30850 |            * My choice of lye ratio
+
+                                                                                          NaOH * 4 = 107.80000 g
+                                                                                           H2O * 4 = 251.53332 g
+
+ * Every 800g seems to create approximately 11 bars.                           1 gallon of H20 ~= 3785.4118g
+ ** The H2O should be distilled or purified water for best results.             $1.00 / gallon ~= $0.00026 / g
+ *** Do not use glass, NaOH is caustic to glass.                                 62.60800g h20 ~= $0.16278
+
+ Tools:                                                                         1 gram of NaOH ~= $0.01500
+ 1) 2 mixing bowls (heavy duty plastic, silicon, stainless steel, or wood).       32.938g NaOH ~= $0.40248
+ 2) 1 spoon (heavy duty plastic, silicon, stainless steel, or wood).
+ 3) measuring cups, temperature readers, and metric weighing devices.                      1 oz = 28.34952 g
+ 4) soap mold (heavy duty plastic, silicon, stainless steel, or wood).                    16 oz = 453.59232 g
+ 5) double boiler.                                                                        32 oz = 907.18464 g
+                                                                                         128 oz = 3628.73856 g
+ Stage 1 Instructions:
+ 1) Weigh all of the items/oils and add them to a double boiler.       ~ Cost Per Bar  ~ Cost Per g
+ 2) Melt all items/oils until moderately hot.                          --------------  ------------
+ 3) Add H2O to a bowl #1 (for mixing lye).                                  $1.11034   $0.0099759   (A: evercandy)
+ 4) Very slowly dash in all of the NaOH into bowl #1 while stiring.         $0.00000   $0.0000000   (B: candy)
+
+                                                                       ~ air pressure | ~ temperature | ~ humidiy
+Stage 2, Mixing, Superfatting, and Adding Preservatives                ---------------|---------------|-----------
+-------------------------------------------------------                   1010.30 hPA |       25.00 C |   60.00 %
+
+   item/oil (A)    |  grams |   x4   |   note                                              |  ~ cost  |  ~cost/g
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ citric acid       |   2.0  |   8.0  | preservative, acidic                                |  0.00488 |  0.00244
+ everclear         |   5.0  |  20.0  | 95% ethanol, melt and pour, disinfectant            |  0.10000 |  0.02000
+ vegitable glycerin|   2.5  |  10.0  | traps water, melt and pour, moisturizing            |  0.00770 |  0.00308
+ coconut suger     |   5.0  |  20.0  | *dissolved in small amount of water                 |  0.09450 |  0.01890
+ cannibus extract  |   3.5  |  14.0  | huge health benefits for skin                       |  1.12000 |  0.32000
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ total             |  18.0g |  72.0g | per ~200g of oils, if using 800g use x4             | $1.32708 |
+
+   item/oil (B)    |  grams |   x4   |   note                                              |  ~ cost  |  ~cost/g
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ citric acid       |   2.0  |   8.0  | preservative, acidic                                |  0.00488 |  0.00244
+ vegitable glycerin|   1.0  |   4.0  | traps water, melt and pour, moisturizing            |  0.00308 |  0.00308
+ cannibus extract  |   3.5  |  14.0  | huge health benefits for skin                       |  1.12000 |  0.32000
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ total             |   6.5g |  26.0g | per ~200g of oils, if using 800g use x4             | $1.12796 |
+
+  Stage 2 Instructions:
+  1) Pour hot items/oils into bowl #2.
+  2) Slowly pour bowl #1 into bowl #2, stiring.
+  3) Stir until mixture becomes noticably thick (should have trace).
+  4) Add any additional ingredients or preservatives and mix well.
+  5) After mixing well, pour the contents of bowl #2 into the soap mold.
+  6) After 2 to 3 days, remove the soap from mold and cut into pieces.
+
+Fatty Acid and Mineral Breakdown (approximate percentage of fatty acids or minerals per oil.)
+---------------------------------------------------------------------------------------------
+
+ Acid/Miner | hemp seed |   palm   |  castor  |  avocado |  % total
+------------|-----------|----------|----------|----------|---------
+ Lauric     |           |          |          |          |    0.000
+ Mystic     |           |  1*0.175 |          |          |    0.175
+ Palmitic   |   6*0.600 | 44*0.175 |          | 20*0.100 |   13.300
+ Stearic    |   2*0.600 |  5*0.175 |          |  2*0.100 |    2.275
+ Ricinoleic |           |          | 90*0.125 |          |   11.250
+ Oleic      |  12*0.600 | 39*0.175 |  4*0.125 | 58*0.100 |   20.325
+ Linoleic   |  57*0.600 | 10*0.175 |  4*0.125 | 12*0.100 |   37.650
+ Linolenic  |  21*0.600 |          |          |          |   12.600
+ Punicic    |           |          |          |          |    0.000
+ Iodine     | 165*0.600 | 53*0.175 | 86*0.125 | 86*0.100 |  127.625
+
+ Fatty Acid |   Cleansing   |    Hardness   |  Full Lather  | Stable Lather |  Conditioning    Rating System
+--------------------------------------------------------------------------------------------  ---------------
+ Lauric     |        0.000  |        0.000  |        0.000  |               |                  A+ | 65 -> +
+ Mystic     |        0.175  |        0.175  |        0.175  |               |                  A  | 45 -> 64
+ Palmitic   |               |       13.300  |               |       13.300  |                  B  | 35 -> 44
+ Stearic    |               |        2.275  |               |        2.275  |                  C  | 25 -> 34
+ Ricinoleic |               |               |       11.250  |       11.250  |       11.250     D  | 15 -> 24
+ Oleic      |               |               |               |               |       20.325     E  |  5 -> 14
+ Linoleic   |               |               |               |               |       37.650     F  |  0 ->  4
+ Linolenic  |               |               |               |               |       12.600
+--------------------------------------------------------------------------------------------
+ Properties | (F)    0.175  | (D)   15.750  | (E)   11.425  | (C)   26.825  | (A+)  81.825
+
+Ingredients
+-----------
+  (option A: evercandy)
+  hemp seed oil (organic), purified water, palm oil (cold pressed), sodium hydroxide, castor oil (cold pressed),
+  avocado oil (organic), everclear (95% ethanol), coconut sugar (organic), cannibus extract,
+  vegitable glycerine, citric acid (preservative)
+
+  (option B: candy)
+  hemp seed oil (organic), purified water, palm oil (cold pressed), sodium hydroxide, castor oil (cold pressed),
+  avocado oil (organic), cannibus extract, citric acid (preservative)

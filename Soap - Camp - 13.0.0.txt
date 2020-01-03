@@ -1,0 +1,87 @@
+Camp 13.0.0 - Last Updated: 2017/05/10 - License: CC-By-SA 4.0, Kevin Day
+-------------------------------------------------------------------------
+
+Stage 1, Oils and NaOH (Sodium Hydroxide)     ~Mass per Bar    Quick NaOH to H2O:    NaOH to H2O is calculated by:
+-----------------------------------------      ??? -> ???       (NaOH * 2.33)         (NaOH/ratio) - (NaOH)
+
+ item/oil             | grams |  x4  |  ratio |  NaOH g | percent |  ~ cost  | ~cost/g    NaOH g | ratio |   H2O g
+----------------------|-------|------|--------|---------|---------|----------|---------- --------|-------|----------
+ coconut              |   60  | 240  | 0.1946 | 11.676  |  25.000 |  0.92640 |  0.01544   30.611 | 0.28  | 78.71400
+ palm                 |   40  | 160  | 0.1410 |  5.640  |  20.000 |  0.10640 |  0.00266   30.611 | 0.30  | 71.42566*
+ castor               |   40  | 160  | 0.1286 |  5.144  |  20.000 |  0.16560 |  0.00414   30.611 | 0.32  | 65.04837
+ avocado              |   30  | 120  | 0.1330 |  3.990  |  20.000 |  0.32580 |  0.01086   30.611 | 0.34  | 59.42135
+ neem                 |   30  | 120  | 0.1387 |  4.161  |  15.000 |  0.56940 |  0.01898   * My choice of lye ratio
+----------------------|-------|------|--------|---------|---------|----------|----------
+  total               |  200g | 800g |        | 30.611g |         | $2.09360 |            NaOH * 4 = 122.44400 g
+                                                                                           H2O * 4 = 285.70264 g
+
+ * Every 800g seems to create approximately 11 bars.                           1 gallon of H20 ~= 3785.4118g
+ ** The H2O should be distilled or purified water for best results.             $1.00 / gallon ~= $0.00026 / g
+ *** Do not use glass, NaOH is caustic to glass.                                 71.42566g H20 ~= $0.01857
+
+ Tools:                                                                         1 gram of NaOH ~= $0.01500
+ 1) 2 mixing bowls (heavy duty plastic, silicon, stainless steel, or wood).       30.611g NaOH ~= $0.45916
+ 2) 1 spoon (heavy duty plastic, silicon, stainless steel, or wood).
+ 3) measuring cups, temperature readers, and metric weighing devices.                      1 oz = 28.34952 g
+ 4) soap mold (heavy duty plastic, silicon, stainless steel, or wood).                    16 oz = 453.59232 g
+ 5) double boiler.                                                                        32 oz = 907.18464 g
+                                                                                         128 oz = 3628.73856 g
+ Stage 1 Instructions:
+ 1) Weigh all of the items/oils and add them to a double boiler.       ~ Cost Per Bar  ~ Cost Per g
+ 2) Melt all items/oils until moderately hot.                          --------------  ------------
+ 3) Add H2O to a bowl #1 (for mixing lye).                                  $?.?????    $0.???????
+ 4) Very slowly dash in all of the NaOH into bowl #1 while stiring.
+
+                                                                       ~ air pressure | ~ temperature | ~ humidiy
+Stage 2, Mixing, Superfatting, and Adding Preservatives                ---------------|---------------|-----------
+-------------------------------------------------------                   1010.30 hPA |       25.00 C |   60.00 %
+
+   item/oil (A)    |  grams |   x4   |   note                                              |  ~ cost  |  ~cost/g
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ clove             |   4.0  |  16.0  | insect repellant                                    |  0.????? |  0.?????
+ lemon eucalyptus  |   4.0  |  16.0  | insect repellant                                    |  0.????? |  0.?????
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ total             |   8.0g |  32.0g | per ~200g of oils, if using 800g use x4             | $?.????? |
+
+  Stage 2 Instructions:
+  1) Pour hot items/oils into bowl #2.
+  2) Slowly pour bowl #1 into bowl #2, stiring.
+  3) Stir until mixture becomes noticably thick (should have trace).
+  4) Add any additional ingredients or preservatives and mix well.
+  5) After mixing well, pour the contents of bowl #2 into the soap mold.
+  6) After 2 to 3 days, remove the soap from mold and cut into pieces.
+
+Fatty Acid and Mineral Breakdown (approximate percentage of fatty acids or minerals per oil.)
+---------------------------------------------------------------------------------------------
+
+ Acid/Miner |  coconut |   palm   |  castor  |  avocado*|   neem   |  % total
+------------|----------|----------|----------|----------|----------|---------
+ Lauric     | 48*0.300 |          |          |          |          |   14.400
+ Mystic     | 19*0.300 |  1*0.200 |          |          |          |    5.900
+ Palmitic   |  9*0.300 | 44*0.200 |          | 20*0.150 | 18*0.150 |   17.200
+ Stearic    |  3*0.300 |  5*0.200 |          |  2*0.150 | 15*0.150 |    4.450
+ Ricinoleic |          |          | 90*0.200 |          |          |   18.000
+ Oleic      |  8*0.300 | 39*0.200 |  4*0.200 | 58*0.150 | 50*0.150 |   27.200
+ Linoleic   |  2*0.300 | 10*0.200 |  4*0.200 | 12*0.150 | 13*0.150 |    7.150
+ Linolenic  |          |          |          |          |          |    0.000
+ Punicic    |          |          |          |          |          |    0.000
+ Iodine     | 10*0.300 | 53*0.200 | 86*0.200 | 86*0.150 | 72*0.150 |   54.500
+
+ Fatty Acid |   Cleansing   |    Hardness   |  Full Lather  | Stable Lather |  Conditioning    Rating System
+--------------------------------------------------------------------------------------------  ---------------
+ Lauric     |       14.400  |       14.400  |       14.400  |               |                  A+ | 65 -> +
+ Mystic     |        5.900  |        5.900  |        5.900  |               |                  A  | 45 -> 64
+ Palmitic   |               |       17.200  |               |       17.200  |                  B  | 35 -> 44
+ Stearic    |               |        4.450  |               |        4.450  |                  C  | 25 -> 34
+ Ricinoleic |               |               |       18.000  |       18.000  |       18.000     D  | 15 -> 24
+ Oleic      |               |               |               |               |       27.200     E  |  5 -> 14
+ Linoleic   |               |               |               |               |        7.150     F  |  0 ->  4
+ Linolenic  |               |               |               |               |        0.000
+--------------------------------------------------------------------------------------------
+ Properties | (D)   20.300  | (B)   41.950  | (B)   38.300  | (B)   39.650  | (A)   52.350
+
+Ingredients
+-----------
+  purified water, coconut oil (organic), palm oil (organic), castor oil (cold pressed), sodium hydroxide,
+  avocado oil (organic), neem oil (organic), clove oil, lemon eucalyptus oil
+

@@ -1,0 +1,88 @@
+Quick Reference 0.0.0 - Last Updated: 2017/03/14 - License: CC-By-SA 4.0, Kevin Day
+-----------------------------------------------------------------------------------
+This is a guide to quickly make soap at the cost of precision.
+The equations are estimations and approximations to make calculations simple.
+While working with making soaps, I noticed patterns that allow for quick approximations.
+
+   measurement  |  H20  | Base Oil | Salt/Powder | Wax Pellets       measurement | Essential Oil | Rounded
+----------------|-------|----------|-------------|-------------     -------------|---------------|---------
+   3ml / 1/10oz |    3g |       3g |          5g |          2g          1 pippet |         3.30g |      3g
+   6ml / 1/5oz  |    6g |       5g |         10g |          4g          2 pippet |         6.60g |      7g
+  10ml / 1/3oz  |   10g |       8g |         17g |          7g          3 pippet |         9.90g |     10g
+  18ml / 3/5oz  |   18g |      15g |         30g |         12g              1 ml |         0.93g |      1g
+  30ml / 1oz    |   30g |      25g |         50g |         21g              2 ml |         1.86g |      2g
+  50ml / 5/3oz  |   50g |      42g |         83g |         29g
+  60ml / 2oz    |   60g |      50g |        100g |         35g
+ 100ml / 10/3oz |  100g |      83g |        167g |         58g
+ 120ml / 4oz    |  120g |     100g |        200g |         70g
+ 240ml / 1cup   |  240g |     200g |        400g |        140g
+
+To guestimate the amount of NaOH needed per oil/wax, I did the following:
+1) Take average of oils that I use.
+2) Any ratio that is more than 25% from average 1 is removed and new average is taken.
+
+ item/oil    |  ratio  | rounded |  3ml  |  6ml  |  10ml |  18ml |  30ml |  50ml |  60ml | 100ml | 120ml | 240ml
+-------------|---------|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
+ almond      | 0.136   |    0.14 |  0.42 |  0.70 |  1.12 |  2.10 |  3.50 |  5.88 |  7.00 | 11.62 | 14.00 | 28.00
+ beeswax     | 0.069   |    0.07 |  0.14 |  0.28 |  0.49 |  0.84 |  1.47 |  2.03 |  2.45 |  4.06 |  4.90 |  9.80
+ castor      | 0.1286  |    0.13 |  0.39 |  0.65 |  1.04 |  1.95 |  3.25 |  5.46 |  6.50 | 10.79 | 13.00 | 26.00
+ cocoa       | 0.137   |    0.14 |  0.42 |  0.70 |  1.12 |  2.10 |  3.50 |  5.88 |  7.00 | 11.62 | 14.00 | 28.00
+ coconut     | 0.1946  |    0.20 |  0.60 |  1.00 |  1.60 |  3.00 |  5.00 |  8.40 | 10.00 | 16.60 | 20.00 | 40.00
+ hemp seed   | 0.1345  |    0.14 |  0.42 |  0.70 |  1.12 |  2.10 |  3.50 |  5.88 |  7.00 | 11.62 | 14.00 | 28.00
+ jojoba      | 0.069   |    0.07 |  0.21 |  0.35 |  0.56 |  1.05 |  1.75 |  2.93 |  3.50 |  5.81 |  7.00 | 14.00
+ lard        | 0.1400  |    0.14 |  0.42 |  0.70 |  1.12 |  2.10 |  3.50 |  5.88 |  7.00 | 11.62 | 14.00 | 28.00
+ neem        | 0.1387  |    0.14 |  0.42 |  0.70 |  1.12 |  2.10 |  3.50 |  5.88 |  7.00 | 11.62 | 14.00 | 28.00
+ olive       | 0.134   |    0.13 |  0.39 |  0.65 |  1.04 |  1.95 |  3.25 |  5.46 |  6.50 | 10.79 | 13.00 | 26.00
+ palm        | 0.141   |    0.14 |  0.42 |  0.70 |  1.12 |  2.10 |  3.50 |  5.88 |  7.00 | 11.62 | 14.00 | 28.00
+ peanut      | 0.1367  |    0.14 |  0.42 |  0.70 |  1.12 |  2.10 |  3.50 |  5.88 |  7.00 | 11.62 | 14.00 | 28.00
+ pomegranate | 0.136   |    0.14 |  0.42 |  0.70 |  1.12 |  2.10 |  3.50 |  5.88 |  7.00 | 11.62 | 14.00 | 28.00
+ pumpkin     | 0.1331  |    0.13 |  0.39 |  0.65 |  1.04 |  1.95 |  3.25 |  5.46 |  6.50 | 10.79 | 13.00 | 26.00
+ shea butter | 0.128   |    0.13 |  0.39 |  0.65 |  1.04 |  1.95 |  3.25 |  5.46 |  6.50 | 10.79 | 13.00 | 26.00
+ sunflower   | 0.134   |    0.13 |  0.39 |  0.65 |  1.04 |  1.95 |  3.25 |  5.46 |  6.50 | 10.79 | 13.00 | 26.00
+ tallow      | 0.1420  |    0.14 |  0.42 |  0.70 |  1.12 |  2.10 |  3.50 |  5.88 |  7.00 | 11.62 | 14.00 | 28.00
+-------------|---------|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
+ average 1   | 0.13096 |    0.13 |  0.39 |  0.65 |  1.04 |  1.95 |  3.25 |  5.42 |  6.46 | 10.72 | 12.92 | 25.84
+ average 2   | 0.13560 |    0.14 |  0.41 |  0.68 |  1.08 |  2.03 |  3.38 |  5.69 |  6.77 | 11.24 | 13.55 | 27.09
+
+Amount of H2O (for H2O, ml and gram are roughly identical) needed per gram of NaOH:
+  NaOH | H2O (raw)  | H2O     NaOH | H2O (raw)  | H2O     NaOH*4 | H2O*4      NaOH*4 | H2O*4
+-------|------------|-----   ------|------------|-----   --------|--------   --------|-------
+   25g |  58.33333g | 58g      33g |  77.00000g | 77g       100g |   232g       132g |  308g
+   26g |  60.66666g | 61g      34g |  79.33333g | 79g       104g |   244g       136g |  316g
+   27g |  63.00000g | 63g      35g |  81.66666g | 81g       108g |   252g       140g |  324g
+   28g |  65.33333g | 65g      36g |  84.00000g | 84g       112g |   260g       144g |  336g
+   29g |  67.66666g | 68g      37g |  86.33333g | 86g       116g |   272g       148g |  344g
+   30g |  70.00000g | 70g      38g |  88.66666g | 88g       120g |   280g       152g |  352g
+   31g |  72.33333g | 72g      39g |  91.00000g | 91g       124g |   288g       156g |  364g
+   32g |  74.66666g | 75g      40g |  93.33333g | 93g       128g |   300g       160g |  372g
+
+Example Soap From Above Guestimations, Using Soap Recipe: Alpha-1.0.3
+
+ item/oil                |   ml   |  NaOH g | NaOH g (avg 2)       item/oil  |  ml          Rating System
+-------------------------|--------|---------|---------------    -------------|--------     ---------------
+ coconut                 |  120   |  14.00  |         14.00      aloe vera   |  30           A+ | 65 -> +
+ palm                    |   50   |   5.88  |          5.42      citric acid |   5           A  | 45 -> 64
+ castor                  |   30   |   3.25  |          3.38      vitamin e*  |   3           B  | 35 -> 44
+ shea                    |   18   |   1.95  |          2.03      bentonite   |  60           C  | 25 -> 34
+ olive                   |   10   |   1.04  |          1.08      charcoal    |  60           D  | 15 -> 24
+ cocoa                   |    3   |   0.42  |          0.41     -------------|--------       E  |  5 -> 14
+ beeswax                 |    3   |   0.14  |          0.14       total      | 158ml         F  |  0 ->  4
+-------------------------|--------|---------|----------------
+  total                  |  234ml |  26.68g |         26.46g
+
+ The amount generally used to make soap in the molds is about 960ml (or 4 cups).
+ To make the "car soap" from Alpha, add 60ml of bentonite clay and 60 ml of activated charcoal.
+
+ On Acids and Minerals
+ ---------------------
+ Myristic Acid:   Fluffy lather. Can be drying.
+ Palmitic Acid:   Creamy lather. Can be drying.
+ Stearic Acid:    Creamy lather. Can be drying.
+ Ricinoleic Acid: Fluffy and creamy lather.
+ Oleic Acid:      Conditions and moisturizes. Can be slippery/oily.
+ Linoleic Acid:   Conditions and moisturizes. Tends to go bad quickly without preservatives.
+ Linolenic Acid:  Conditions and moisturizes. Mild soap.
+ Punicic Acid:    Conditions and moisturizes.
+ Calendic Acid:   Helps heal skin from radiation damage.
+ Iodine:          High Value = soft bar/more-conditioning. Low Value = hard bar/less-conditioning
+                  (Value is grams of iodine per 100 grams of oil).

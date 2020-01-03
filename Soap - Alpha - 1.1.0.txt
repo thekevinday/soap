@@ -1,0 +1,106 @@
+Alpha 1.1.0 - Last Updated: 2017/03/14 - License: CC-By-SA 4.0, Kevin Day
+-------------------------------------------------------------------------
+
+Stage 1, Oils and NaOH (Sodium Hydroxide)     ~Mass per Bar    Quick NaOH to H2O:    NaOH to H2O is calculated by:
+-----------------------------------------      106 -> 122g      (NaOH * 2.33)         (NaOH/ratio) - (NaOH)
+
+ item/oil             | grams |  x4  |  ratio |  NaOH g | percent |  ~ cost  | ~cost/g    NaOH g | ratio |   H2O g
+----------------------|-------|------|--------|---------|---------|----------|----------  -------|-------|----------
+ coconut              |  100  | 400  | 0.1946 | 19.460  |  50.000 |  1.54400 |  0.01544   32.777 | 0.28  | 84.28371
+ palm                 |   40  | 160  | 0.1410 |  5.640  |  20.000 |  0.10640 |  0.00266   32.777 | 0.30  | 76.47966*
+ castor               |   35  | 140  | 0.1286 |  4.501  |  17.500 |  0.14490 |  0.00414   32.777 | 0.32  | 69.65112
+ olive                |   15  |  60  | 0.1340 |  2.010  |   7.500 |  0.15630 |  0.01042   32.777 | 0.34  | 63.62594
+ cocoa                |    7  |  28  | 0.1370 |  0.959  |   3.500 |  0.09212 |  0.01316   * My choice of lye ratio
+ beeswax              |    3  |  12  | 0.0690 |  0.207  |   1.500 |  0.05496 |  0.01832
+----------------------|-------|------|--------|---------|---------|----------|----------  NaOH * 4 = 131.10800 g
+  total               |  200g | 800g |        | 32.777g |         | $2.09868 |             H2O * 4 = 305.91864 g
+
+ * Every 800g seems to create approximately 11 bars.                           1 gallon of H20 ~= 3785.4118g
+ ** The H2O should be distilled or purified water for best results.             $1.00 / gallon ~= $0.00026 / g
+ *** Do not use glass, NaOH is caustic to glass.                                  76.47966 h20 ~= $0.01988
+
+ Tools:                                                                         1 gram of NaOH ~= $0.01500
+ 1) 2 mixing bowls (heavy duty plastic, silicon, stainless steel, or wood).       32.777g NaOH ~= $0.49165
+ 2) 1 spoon (heavy duty plastic, silicon, stainless steel, or wood).
+ 3) measuring cups, temperature readers, and metric weighing devices.                      1 oz = 28.34952 g
+ 4) soap mold (heavy duty plastic, silicon, stainless steel, or wood).                    16 oz = 453.59232 g
+ 5) double boiler.                                                                        32 oz = 907.18464 g
+                                                                                         128 oz = 3628.73856 g
+ Stage 1 Instructions:
+ 1) Weigh all of the items/oils and add them to a double boiler.       ~ Cost Per Bar  ~ Cost Per g
+ 2) Melt all items/oils until moderately hot.                          --------------  ------------
+ 3) Add H2O to a bowl #1 (for mixing lye).                                 $1.293841    $0.0102758 (optionals A+B)
+ 4) Very slowly dash in all of the NaOH into bowl #1 while stiring.        $1.293708    $0.0102896 (optionals A)
+                                                                           $0.950051    $0.0084209 (minimal)
+
+                                                                       ~ air pressure | ~ temperature | ~ humidiy
+Stage 2, Mixing, Superfatting, and Adding Preservatives                ---------------|---------------|-----------
+-------------------------------------------------------                   1010.30 hPA |       25.00 C |   60.00 %
+
+   item/oil        |  grams |   x4   |   note                                              |  ~ cost  |  ~cost/g
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ citric acid       |   1.0  |   4.0  | preservative, acidic                                |  0.00244 |  0.00244
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ total             |   1.0g |   4.0g | per ~200g of oils, if using 800g use x4             | $0.00244 |
+
+   optionals A     |  grams |   x4   |   note                                              |  ~ cost  |  ~cost/g
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ aloe vera         |  10.0  |  40.0  | healing                                             |  0.04070 |  0.00407
+ bentonite clay    |  25.0  | 100.0  | strong cleanser, anti-biotic, anti-viral            |  0.88175 |  0.03527
+ activate charcoal |   0.5  |   2.0  | absorbs moisture, absorbs poisons/toxins            |  0.02259 |  0.04519
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ total (optionals) |  37.0g | 142.0g | per ~200g of oils, if using 800g use x4             | $1.01283 |
+
+   optionals B     |  grams |   x4   |   note                                              |  ~ cost  |  ~cost/g
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ pumice            |   0.5  |   2.0  | adds roughness for improved scrubbing               |  0.00037 |  0.00074
+-------------------|--------|--------|-----------------------------------------------------|----------|-----------
+ total (optionals) |   0.5g |   2.0g | per ~200g of oils, if using 800g use x4             | $0.00037 |
+
+  Stage 2 Instructions:
+  1) Pour hot items/oils into bowl #2.
+  2) Slowly pour bowl #1 into bowl #2, stiring.
+  3) Stir until mixture becomes noticably thick (should have trace).
+  4) Add any additional ingredients or preservatives and mix well.
+  5) After mixing well, pour the contents of bowl #2 into the soap mold.
+  6) After 2 to 3 days, remove the soap from mold and cut into pieces.
+
+Fatty Acid and Mineral Breakdown (approximate percentage of fatty acids or minerals per oil.)
+---------------------------------------------------------------------------------------------
+
+ Acid/Miner |  coconut |   palm   |  castor  |   olive  |   cocoa  |    total
+------------------------------------------------------------------------------
+ Lauric     | 48*0.500 |          |          |          |          |   24.000
+ Mystic     | 19*0.500 |  1*0.200 |          |          |          |    9.700
+ Palmitic   |  9*0.500 | 44*0.200 |          | 11*0.075 | 28*0.035 |   15.105
+ Stearic    |  3*0.500 |  5*0.200 |          |  4*0.075 | 33*0.035 |    3.955
+ Ricinoleic |          |          | 90*0.175 |          |          |   15.750
+ Oleic      |  8*0.500 | 39*0.200 |  4*0.175 | 72*0.075 | 35*0.035 |   19.125
+ Linoleic   |  2*0.500 | 10*0.200 |  4*0.175 | 10*0.075 |  3*0.035 |    4.555
+ Linolenic  |          |          |          |  1*0.075 |          |    0.075
+ Punicic    |          |          |          |          |          |    0.000
+ Iodine     | 10*0.500 | 53*0.200 | 86*0.175 | 85*0.075 | 37*0.035 |   38.320
+
+ Fatty Acid |   Cleansing   |    Hardness   |  Full Lather  | Stable Lather |  Conditioning   Rating System
+-------------------------------------------------------------------------------------------  ---------------
+ Lauric     |       24.000  |       24.000  |       24.000  |               |                 A+ | 65 -> +
+ Mystic     |        9.700  |        9.700  |        9.700  |               |                 A  | 45 -> 64
+ Palmitic   |               |       15.105  |               |       15.105  |                 B  | 35 -> 44
+ Stearic    |               |        3.955  |               |        3.955  |                 C  | 25 -> 34
+ Ricinoleic |               |               |       15.750  |       15.750  |       15.750    D  | 15 -> 24
+ Oleic      |               |               |               |               |       19.125    E  |  5 -> 14
+ Linoleic   |               |               |               |               |        4.555    F  |  0 ->  4
+ Linolenic  |               |               |               |               |        0.075
+--------------------------------------------------------------------------------------------
+ Properties | (C)   33.700  | (A)   52.760  | (A)   49.450  | (C)   34.810  | (B)   39.505
+
+Ingredients
+-----------
+  (optional A (and B))
+  coconut oil (organic), bentonite clay (50% sodium & 50% calcium), activated charcoal, purified water,
+  palm oil (cold pressed), sodium hydroxide, castor oil (cold pressed), olive oil (organic), cocoa butter (organic),
+  aloe vera (cold processed), beeswax (organic), pumice (option B), citric acid (preservative)
+
+  (minimal)
+  coconut oil (organic), purified water, palm oil (cold pressed), sodium hydroxide, castor oil (cold pressed),
+  olive oil (organic), cocoa butter (organic), beeswax (organic), citric acid (preservative)
